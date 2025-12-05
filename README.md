@@ -13,6 +13,8 @@ Un compte privé cache toutes les informations d'un utilisateur. L'utilisateur a
 
 Il est possible de changer un compte public à un compte privé ainsi que de changer un compte privé à un compte public sans frais.
 
+Les informations du compte privé ne sont pas montré au public, mais il est donné au biologistes marins pour pouvoir aider dans leur recherches. Les informations ne sont pas divulgable au public et reste privé.
+
 ### Système de point
 Les points seront donnés selont la rareté, le poids, la longueur et l'endroit que le poisson sera pris.
 Les poisssons plus rares donneront plus de point que les poissons communs.
@@ -58,6 +60,13 @@ pas.
 
 L'utilisateur peut choisir de faire un classment local personalisé avec d'autres utilisateurs en faisant un classment local. Il peut ajouter d'autres utilisateurs grâce à un système d`"ami" ou par un lien personalisé qui sera créé lorsque demandé. Le classement local peut être public ou privé selon le choix de la personne qui a fait le classent local.
 
+### Système de trophé
+Dans la salle de trophé, l'utilisateur peut choisir 3 poissons qu'il veut montrer sur son compte. 
+Il y aura un bouton qui peut choisir automatiquement les trois poissons qui comptent pour le plus de point.
+Il est possible de classer les poissond d'un ordre croissant ou décroissant pour aidé l'utilisateur.
+Il est possible classé les poissons selons les régions qu'ils ont été pêcher.
+
+### Comment mettre les poissons dans le système
 
 
 

@@ -4,6 +4,15 @@
 Le projet consiste à faire une application (companion app) pour la pêche. Il permet de garder un répertoire des poissons qu'un pêcheur a pêcher durant sa carrière et de donner des points dépandants de : la rareté du poisson, sa longueur, son poid et l'endroit que le poisson a été pêché.
 Le but principal du projet est d'aider les biologistes marins dans leur travaille pour pouvoir donner des informations plus précises.
 
+### Type d'utilisateur
+Lors de la création d'un compte, l'utilisateur peut decider si son compte est public ou privé.
+
+Un compte public laisse voir toutes les informations qui ne sont pas confidentiels de l'utilisateur. Ces informations sont : le classement de la personne, la salle de trophé de la personne, les endroits où il a attrapés ses poissons et les leures qu'il a utilisés.
+
+Un compte privé cache toutes les informations d'un utilisateur. L'utilisateur avec un compte privée peut rendre les informations de son choix public.
+
+Il est possible de changer un compte public à un compte privé ainsi que de changer un compte privé à un compte public sans frais.
+
 ### Système de point
 Les points seront donnés selont la rareté, le poids, la longueur et l'endroit que le poisson sera pris.
 Les poisssons plus rares donneront plus de point que les poissons communs.
@@ -40,5 +49,15 @@ La zone de prise donne un montant de points selon la qualité de pêche.
 
 Le type de zone est décidé par les recherches passées des biologistes marins de la région et par le montant d'utilisateurs qui ont attrapés des poissons dans la régions.
 Les utlisateurs sont une aide pour découvrir si une zone est surpêcher, mais des sources concrètes sur la région maritime sont priorisées pour décider le type de zone.
+
+### Système de classement
+Le système de classement utlise les points de l'utilisateur pour le placer dans le classement de son choix.
+
+Le système de classement sera divisé en trois catégories : Mondiale, regionale et local. L'utilisateur a la possibilité de choisir le classement auquel il veut participer. Si l'utilisateur ne participe pas à un classement, so score ne contribut pas à ce classement. L'utilisateur peut quand même voir le classement régional et mondiale même s'il n'y participe 
+pas. 
+
+L'utilisateur peut choisir de faire un classment local personalisé avec d'autres utilisateurs en faisant un classment local. Il peut ajouter d'autres utilisateurs grâce à un système d`"ami" ou par un lien personalisé qui sera créé lorsque demandé. Le classement local peut être public ou privé selon le choix de la personne qui a fait le classent local.
+
+
 
 

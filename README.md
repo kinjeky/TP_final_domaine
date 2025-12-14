@@ -12,8 +12,8 @@ L'application est dans l'orientation "portrait" par défaut.
 #### L'écran de départ
 Simplement l'écran que l'utilisateur voit quand il ouvre l'application sur son téléphone.
 #### Écran princial
-C'est l'écran que l'utilisateur utilise comme point de départ pour naviguer les différentes sections de l'application.
-### Bouton "home"
+C'est l'écran que l'utilisateur utilise comme point de départ pour naviguer les différentes sections de l'application. L'écran principal est la photo du plus grand poisson que l'utilisateur a attrapé. Il peut aussi être changer à la carte d'une région au choix (ex. une carte simplple de la rivère de milles iles).
+#### Bouton "home"
 Le bouton "home" se situe toujours au coin en bas à gauche de l'écrant et permet de revenir à l'écran de départ.
 #### Bouton ""ajouté poisson"
 Le bouton "ajouté poisson" est utlisé pour ajouter un poisson dans le système.
@@ -25,6 +25,8 @@ Le bouton "paramètre" permet de changer les paramètre de l'application. Il est
 Le bouton "classement" permet d'accéder aux types de classement. Il y a un classement mondiale, régional ou local.
 #### Bouton "social"
 Le bouton "social" permet d'ajouter d'autre utilisateurs comme "ami". Il contient aussi une option de clavardage pour se parler entre pêcheur dans la section social.
+#### Bouton "carte"
+Le bouton carte permet de voir une carte de la région où l'utilisateur se situe. Si l'utilisateur n'a pas activer la fonction de localisation, il faut alors que l'utilisateur met sa location manuellement.
 
 ### Type d'utilisateur
 Lors de la création d'un compte, l'utilisateur peut decider si son compte est public ou privé.
@@ -83,13 +85,21 @@ pas.
 L'utilisateur peut choisir de faire un classment local personalisé avec d'autres utilisateurs en faisant un classment local. Il peut ajouter d'autres utilisateurs grâce à un système d`"ami" ou par un lien personalisé qui sera créé lorsque demandé. Le classement local peut être public ou privé selon le choix de la personne qui a fait le classent local.
 
 ### Système de trophé
-Dans la salle de trophé, l'utilisateur peut choisir 3 poissons qu'il veut montrer sur son compte. 
+Dans la salle de trophé, l'utilisateur peut choisir 3 poissons qu'il veut montrer sur son compte.
+
+La salle de trophé peut être vu par tout les utilisateurs si la salle de trophé est publique. Si la salle de trophé est mis 
+a "privé", la salle de trophé est alors seulement visible aux amis de l'utilisateur. Il est aussi possible de rendre la salle de trophé "caché" pour que personne à part l'utilisateur puisse voir sa salle de trophé.
+
 Il y aura un bouton qui peut choisir automatiquement les trois poissons qui comptent pour le plus de point.
+
 Il est possible de classer les poissons d'un ordre croissant ou décroissant pour aidé l'utilisateur.
+
 Il est possible classé les poissons selons les régions qu'ils ont été pêcher.
 
+Lorsque l'utilisateur clique sur l'un de ses poissons dans la salle de trophé, il y aura une petite description sur l'espèce du poisson (description courte sur l'espèce et information pour savoir si le poissone est invasif ou est natif de la région) et tout les détails que l'utilisateur a mis lorsqu'il ajoute un poisson dans le systèmes.
+
 ### Comment mettre les poissons dans le système
-Pour ajouter un poisson dans le système, il faut prendre une photo de profil du poisson dans la section "ajouter poisson" et entrée son espèce, son poids, sa longueur et la zone de prise.
+Pour ajouter un poisson dans le système, il faut prendre une photo de profil du poisson dans la section "ajouter poisson" et entrée son espèce, son poids, sa longueurm, l'heure de prisse et la zone de prise et le matériel qui a été utlilser pour l'attraper (canne à pêche, moulinet, ligne de pêche et leurres).
 
 La zone de prise peut être soit entrée d'une façon manuel avec le nom du lac ou de la rivière où le pêcheur est situé. Si le  nom est indisponible il est alors possible d'utiliser le système automatique qui utilise la localisation GPS du téléphone.
 
@@ -98,7 +108,19 @@ Le poisson est alors mis dans la collection de l'utilisateur.
 Les photos sont utilisées pour pouvoir avoir plus d'information sur les poissons lors des recherches des biologistes marin. 
 
 ### Système "social" ou d'ami
-Il permet d'ajouter d'autre utilisateurs comme "ami". Cette fonction permet d'avoir des classements privée juste entre ami. Il y a aussi une fontion de clavardage pour pouvoir clavarder avec d'autres utilisateurs. 
+Il permet d'ajouter d'autre utilisateurs comme "ami". Cette fonction permet d'avoir des classements privée juste entre ami. 
 
+Il y a aussi une fontion de clavardage pour pouvoir clavarder avec d'autres utilisateurs. Les utilisateurs publiques peuvent recevoirs des messages de tout les utilisateurs. Pour clavarder avec un utilisateur privé, il faut d'abord devenir ami avec l'utilisateur privé.
+
+### Carte
+La carte permet de de voir une carte de la localisation de l'utilisateur. Il est possible d'activer la fonction de voir la carte d'une façon détailler (3D) ou de voir la carte d'une façon simplifier (cette fonction permet de voir la carte sans internet et peut être télécharger sur l'application). 
+
+La carte a une fonction d'épingle qui permet de voir l'endroit exacte où un poisson a été attrapé par l'utilisateur. Les épingles peuvent être publique ou privé. Les épingles publiques peuvent être vu par tout les utilisateur sur la carte publique. Les épingles privées sont seulement visible par l'utilisateur qui l'a créé. Les épingles peuvent aussi êtres créés pour prendre en note des région de pêche que l'utilisateur voudrait retourner. Il est possible de mettre une description de 100 mots sur l'épingle. 
+
+#### Règlementation de la région
+La carte permet aussi de voir la réglementation de la région où l'utilisateur se situe. Cela inclu la type d'appât légal, le type d'ammeçon légal, quel poisson est légal de garder, le nombre de poisson qui peut être garder, la taille minimum et la taille macimum pour pouvoir garder le poisson.  
+
+#### Fonction météo
+La fonction météo permet, lorsque connecté à internet, de voir la météo de la région où l'utlisateur se trouve et les types de leurres qui sont le plus propice à ce genre de climat.
 
 

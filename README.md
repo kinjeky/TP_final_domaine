@@ -1,4 +1,54 @@
 # TP_final_domaine
+
+## public cible
+Le public cible sont les pêcheurs qui veulent une application qui aide lors de leur sorties de pêche.
+
+### Ce qui est important
+Le plus important est de faire une application qui est simple et efficace qui permet aux pêcheurs de garder un répertoire qui leur permet de s'améliorer tout en restant fun.
+
+### But du projet
+Le but du projet est de donner le plus d'informations aux biologistes marins ou tout autre corps scientigique afin d'approfondir sur la faune et la flore des points d'eau de tous les pays du monde.
+
+## Choix de technologie
+Le téléphone portable.
+
+## Répondre aux besoins des utilisateurs
+L'application permet de 
+- Faire naître l'esprit compétitif des utilisateurs avec un système de points
+- Permettre de garder un répertoire des poissons attrapés avec une salle des trophées
+- Aider les pêcheurs à respecter les lois et régulations de la région en quelques clics.
+- Aider à la préservation de la faune et de la flore.
+
+## Étape de production
+### Préproduction
+  - Besoins d'argent : environ 100k
+  - Besoins de programmeurs, de producteurs, de UX, graphiste, de responsables juridique, des publicistes, des responsables logistique, des responsables d'équipe, des pêcheurs de tout niveaux, des scientifiques dans le domaine marin et d'agents du gouvernement qui s'occupe de la régulation des lacs, rivières et océans.
+  - Bureau pour faire des meetings, de l'équipement de pêche de haute et de basse gamme, d'ordinateurs, un serveur, un lac avec une population contrôlée de poisson.
+  - Si l'application n'est pas assez populaire, il serait possible de proposer cette application au gouvernement et de se faire payer de cette façon. Si cela ne marche pas, une version moins avancée et plus rustique de l'application peut être créée pour les donner à des YouTubeurs pour pouvoir montrer à un public plus concentré sur la pêche.
+  - Promotion dans le Kickstarter
+ 
+### Production
+- Production du contenu de l'application (images, son, textes, musiques, animation)
+- Connexion avec les corps gouvernementaux pour mettre les informations des règles des points d'eau.
+- Développement et intégration du code et des services.
+- Tests à l'interne (on va à la pêche)
+
+
+### Postproduction
+- Finalisation du programme
+- Correction des erreurs trouvées lors de la production
+- Début des tests au publique
+
+### Opération
+- Maintenance de l'application
+- Mise à jour des restrictions des points d'eau selon la saison
+- Support d'utilisateurs
+- Gestion avec feedback de la communauté
+
+  
+
+
+
 ## Concept
 ### Description du projet
 Le projet consiste à faire une application (companion app) pour la pêche. Il permet de garder un répertoire des poissons qu'un pêcheur a pêchés durant sa carrière et de donner des points dépendants de : la rareté du poisson, sa longueur, son poids et l'endroit que le poisson a été pêché.
@@ -122,5 +172,10 @@ La carte permet aussi de voir la réglementation de la région où l'utilisateur
 
 #### Fonction météo
 La fonction météo permet, lorsque connecté à internet, de voir la météo de la région où l'utlisateur se trouve et les types de leurres qui sont le plus propice à ce genre de climat.
+
+## Conclusion
+### Quel est la différence?
+L'application se différencie de la compétition en aidant la communauté scientifique avec l'aide des utilisateurs de l'application. Il promet aussi d'aider les pêcheurs en leurs donnant des informations cruciales telles que les réglementations du point d'eau qu'ils pêchent.
+L'application pourrait attirer des investisseurs dans le Kickstarter, car il permet d'aider la communauté scientifique dans le respect des lois tout en ayant du plaisir.
 
 
